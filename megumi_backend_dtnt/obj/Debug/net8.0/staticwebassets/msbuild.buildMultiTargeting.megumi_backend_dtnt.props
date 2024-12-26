@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/megumi_backend_dtnt.props" />
+</Project>

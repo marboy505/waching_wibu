@@ -1,0 +1,6 @@
+@megumi_backend_dtnt_HostAddress = http://localhost:5081
+
+GET {{megumi_backend_dtnt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
